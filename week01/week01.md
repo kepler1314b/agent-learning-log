@@ -14,3 +14,9 @@ test
     git config --global core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe 使用这个指令使用电脑自带的ssh
 明天学习重点：python基础，以及obsidian简单使用
 
+
+# Day6 0905 
+
+前几天学了： map函数的应用，字符串
+今天学习:  函数 模块导入
+明天学习算法题，之后每天一题
